@@ -1,4 +1,4 @@
-package ru.netology.javaqa.SyndromeJ8.statistic;
+package ru.netology.statistic;
 
 public class StatisticsService {
     /**
