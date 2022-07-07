@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.netology.javaqa</groupId>
-    <artifactId>SyndromeJ8.1</artifactId>
+    <artifactId>SyndromeJ8</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
